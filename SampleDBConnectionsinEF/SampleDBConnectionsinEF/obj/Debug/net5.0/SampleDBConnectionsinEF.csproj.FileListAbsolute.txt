@@ -1,0 +1,118 @@
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\appsettings.json
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.exe
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.deps.json
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.runtimeconfig.json
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.runtimeconfig.dev.json
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\ref\SampleDBConnectionsinEF.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.pdb
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Humanizer.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.csproj.AssemblyReference.cache
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.AssemblyInfoInputs.cache
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.AssemblyInfo.cs
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.csproj.CoreCompileInputs.cache
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\staticwebassets\SampleDBConnectionsinEF.StaticWebAssets.Manifest.cache
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\staticwebassets\SampleDBConnectionsinEF.StaticWebAssets.xml
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\scopedcss\bundle\SampleDBConnectionsinEF.styles.css
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.RazorTargetAssemblyInfo.cache
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.csproj.CopyComplete
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\ref\SampleDBConnectionsinEF.dll
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.pdb
+E:\ASP.NET WebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.genruntimeconfig.cache
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\appsettings.Development.json
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\appsettings.json
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.exe
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.deps.json
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.runtimeconfig.json
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.runtimeconfig.dev.json
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\ref\SampleDBConnectionsinEF.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\SampleDBConnectionsinEF.pdb
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Humanizer.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.csproj.AssemblyReference.cache
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.AssemblyInfoInputs.cache
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.AssemblyInfo.cs
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.csproj.CoreCompileInputs.cache
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.MvcApplicationPartsAssemblyInfo.cs
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\staticwebassets\SampleDBConnectionsinEF.StaticWebAssets.Manifest.cache
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\staticwebassets\SampleDBConnectionsinEF.StaticWebAssets.xml
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\scopedcss\bundle\SampleDBConnectionsinEF.styles.css
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.RazorTargetAssemblyInfo.cache
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.csproj.CopyComplete
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\ref\SampleDBConnectionsinEF.dll
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.pdb
+E:\ASP.NETWebAPI\SampleDBConnectionsinEF\SampleDBConnectionsinEF\obj\Debug\net5.0\SampleDBConnectionsinEF.genruntimeconfig.cache
